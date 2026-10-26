@@ -1,0 +1,101 @@
+Student_ID,Gender,City,Study_Hours,Attendance_Percent,Math_Score,Science_Score,English_Score,Performance_Level
+1,Female,Bengaluru,6.5,92.0,88,91.0,87,Excellent
+2,Male,Mumbai,4.2,78.0,72,70.0,75,Average
+3,Female,Delhi,7.1,96.0,94,96.0,92,Excellent
+4,Male,Pune,5.0,84.0,79,82.0,80,Good
+5,Female,Chennai,8.2,98.0,96,95.0,94,Excellent
+6,Male,Hyderabad,3.8,72.0,65,68.0,71,Needs Improvement
+7,Female,Bengaluru,6.0,89.0,85,88.0,86,Good
+8,Female,Kolkata,5.5,86.0,81,84.0,83,Good
+9,Male,Jaipur,4.5,75.0,70,73.0,76,Average
+10,Female,Ahmedabad,7.8,94.0,91,93.0,90,Excellent
+11,Female,Bengaluru,6.5,92.0,88,91.0,87,Excellent
+12,Male,Mumbai,4.2,78.0,72,70.0,75,Average
+13,Female,Delhi,7.1,96.0,94,96.0,92,Excellent
+14,Male,Pune,5.0,84.0,79,82.0,80,Good
+15,Female,Chennai,,98.0,96,95.0,94,Excellent
+16,Male,Hyderabad,3.8,72.0,65,68.0,71,Needs Improvement
+17,Female,Bengaluru,6.0,89.0,85,88.0,86,Good
+18,Female,Kolkata,5.5,86.0,81,84.0,83,Good
+19,Male,Jaipur,4.5,75.0,70,73.0,76,Average
+20,Female,Ahmedabad,7.8,94.0,91,93.0,90,Excellent
+21,Female,Bengaluru,6.5,92.0,88,91.0,87,Excellent
+22,Male,Mumbai,4.2,78.0,72,70.0,75,Average
+23,Female,Delhi,7.1,96.0,94,96.0,92,Excellent
+24,Male,Pune,5.0,84.0,79,82.0,80,Good
+25,Female,Chennai,8.2,98.0,96,95.0,94,Excellent
+26,Male,Hyderabad,3.8,72.0,65,68.0,71,Needs Improvement
+27,Female,Bengaluru,6.0,89.0,85,88.0,86,Good
+28,Female,Kolkata,5.5,86.0,81,84.0,83,Good
+29,Male,Jaipur,4.5,75.0,70,73.0,76,Average
+30,Female,Ahmedabad,7.8,94.0,91,93.0,90,Excellent
+31,Female,Bengaluru,6.5,92.0,88,91.0,87,Excellent
+32,Male,Mumbai,4.2,78.0,72,70.0,75,Average
+33,Female,Delhi,7.1,96.0,94,96.0,92,Excellent
+34,Male,Pune,5.0,84.0,79,82.0,80,Good
+35,Female,Chennai,8.2,98.0,96,95.0,94,Excellent
+36,Male,Hyderabad,3.8,72.0,65,68.0,71,Needs Improvement
+37,Female,Bengaluru,6.0,89.0,85,88.0,86,Good
+38,Female,Kolkata,5.5,,81,84.0,83,Good
+39,Male,Jaipur,4.5,75.0,70,73.0,76,Average
+40,Female,Ahmedabad,7.8,94.0,91,93.0,90,Excellent
+41,Female,Bengaluru,6.5,92.0,88,91.0,87,Excellent
+42,Male,Mumbai,4.2,78.0,72,70.0,75,Average
+43,Female,Delhi,7.1,96.0,94,96.0,92,Excellent
+44,Male,Pune,5.0,84.0,79,82.0,80,Good
+45,Female,Chennai,8.2,98.0,96,95.0,94,Excellent
+46,Male,Hyderabad,3.8,72.0,65,68.0,71,Needs Improvement
+47,Female,Bengaluru,6.0,89.0,85,88.0,86,Good
+48,Female,Kolkata,5.5,86.0,81,84.0,83,Good
+49,Male,Jaipur,4.5,75.0,70,73.0,76,Average
+50,Female,Ahmedabad,7.8,94.0,91,93.0,90,Excellent
+51,Female,Bengaluru,6.5,92.0,88,91.0,87,Excellent
+52,Male,Mumbai,4.2,78.0,72,70.0,75,Average
+53,Female,Delhi,7.1,96.0,94,96.0,92,Excellent
+54,Male,Pune,5.0,84.0,79,82.0,80,Good
+55,Female,Chennai,8.2,98.0,96,95.0,94,Excellent
+56,Male,Hyderabad,3.8,72.0,65,68.0,71,Needs Improvement
+57,Female,Bengaluru,6.0,89.0,85,88.0,86,Good
+58,Female,Kolkata,5.5,86.0,81,84.0,83,Good
+59,Male,Jaipur,4.5,75.0,70,73.0,76,Average
+60,Female,Ahmedabad,7.8,94.0,91,93.0,90,Excellent
+61,Female,Bengaluru,6.5,92.0,88,91.0,87,Excellent
+62,Male,Mumbai,4.2,78.0,72,70.0,75,Average
+63,Female,Delhi,7.1,96.0,94,96.0,92,Excellent
+64,Male,Pune,5.0,84.0,79,,80,Good
+65,Female,Chennai,8.2,98.0,96,95.0,94,Excellent
+66,Male,Hyderabad,3.8,72.0,65,68.0,71,Needs Improvement
+67,Female,Bengaluru,6.0,89.0,85,88.0,86,Good
+68,Female,Kolkata,5.5,86.0,81,84.0,83,Good
+69,Male,Jaipur,4.5,75.0,70,73.0,76,Average
+70,Female,Ahmedabad,7.8,94.0,91,93.0,90,Excellent
+71,Female,Bengaluru,6.5,92.0,88,91.0,87,Excellent
+72,Male,Mumbai,4.2,78.0,72,70.0,75,Average
+73,Female,Delhi,7.1,96.0,94,96.0,92,Excellent
+74,Male,Pune,5.0,84.0,79,82.0,80,Good
+75,Female,Chennai,8.2,98.0,96,95.0,94,Excellent
+76,Male,Hyderabad,3.8,72.0,65,68.0,71,Needs Improvement
+77,Female,Bengaluru,6.0,89.0,85,88.0,86,Good
+78,Female,Kolkata,5.5,86.0,81,84.0,83,Good
+79,Male,Jaipur,4.5,75.0,70,73.0,76,Average
+80,Female,Ahmedabad,7.8,94.0,91,93.0,90,Excellent
+81,Female,Bengaluru,6.5,92.0,88,91.0,87,Excellent
+82,Male,Mumbai,4.2,78.0,72,70.0,75,Average
+83,Female,Delhi,7.1,96.0,94,96.0,92,Excellent
+84,Male,Pune,5.0,84.0,79,82.0,80,Good
+85,Female,Chennai,8.2,98.0,96,95.0,94,Excellent
+86,Male,Hyderabad,3.8,72.0,65,68.0,71,Needs Improvement
+87,Female,Bengaluru,6.0,89.0,85,88.0,86,Good
+88,Female,Kolkata,5.5,86.0,81,84.0,83,Good
+89,Male,Jaipur,4.5,75.0,70,73.0,76,Average
+90,Female,Ahmedabad,7.8,94.0,91,93.0,90,Excellent
+91,Female,Bengaluru,6.5,92.0,88,91.0,87,Excellent
+92,Male,Mumbai,4.2,78.0,72,70.0,75,Average
+93,Female,Delhi,7.1,96.0,94,96.0,92,Excellent
+94,Male,Pune,5.0,84.0,79,82.0,80,Good
+95,Female,Chennai,8.2,98.0,96,95.0,94,Excellent
+96,Male,Hyderabad,3.8,72.0,65,68.0,71,Needs Improvement
+97,Female,Bengaluru,6.0,89.0,85,88.0,86,Good
+98,Female,Kolkata,5.5,86.0,81,84.0,83,Good
+99,Male,Jaipur,4.5,75.0,70,73.0,76,Average
+100,Female,Ahmedabad,7.8,94.0,91,93.0,90,Excellent

@@ -1,0 +1,5 @@
+Class,Before_SMOTE,After_SMOTE
+Average,16,32
+Excellent,32,32
+Good,24,32
+Needs Improvement,8,32
