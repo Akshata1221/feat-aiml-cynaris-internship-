@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.env.*
+!.env.example
+mlruns/
+mlartifacts/
+chroma_db/
+chroma_store/
+*.pkl
+*.joblib

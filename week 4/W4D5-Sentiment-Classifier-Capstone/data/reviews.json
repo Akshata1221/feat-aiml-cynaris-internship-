@@ -1,0 +1,242 @@
+[
+  {
+    "text": "Excellent product and amazing support",
+    "label": 1
+  },
+  {
+    "text": "I loved the service and friendly staff",
+    "label": 1
+  },
+  {
+    "text": "Great quality and quick delivery",
+    "label": 1
+  },
+  {
+    "text": "Wonderful experience and easy setup",
+    "label": 1
+  },
+  {
+    "text": "Fantastic value and reliable performance",
+    "label": 1
+  },
+  {
+    "text": "Very happy with my purchase",
+    "label": 1
+  },
+  {
+    "text": "The app is smooth and useful",
+    "label": 1
+  },
+  {
+    "text": "Superb design and helpful features",
+    "label": 1
+  },
+  {
+    "text": "Works perfectly and saves time",
+    "label": 1
+  },
+  {
+    "text": "Highly recommend this excellent item",
+    "label": 1
+  },
+  {
+    "text": "Fast response and brilliant service",
+    "label": 1
+  },
+  {
+    "text": "Impressive results and clean interface",
+    "label": 1
+  },
+  {
+    "text": "The quality exceeded expectations",
+    "label": 1
+  },
+  {
+    "text": "Pleasant experience with this company",
+    "label": 1
+  },
+  {
+    "text": "This is a great and affordable solution",
+    "label": 1
+  },
+  {
+    "text": "Customer service was excellent",
+    "label": 1
+  },
+  {
+    "text": "A delightful and convenient tool",
+    "label": 1
+  },
+  {
+    "text": "I am satisfied with the results",
+    "label": 1
+  },
+  {
+    "text": "Reliable product and helpful team",
+    "label": 1
+  },
+  {
+    "text": "Easy to use and works well",
+    "label": 1
+  },
+  {
+    "text": "A very positive experience overall",
+    "label": 1
+  },
+  {
+    "text": "Amazing features and thoughtful design",
+    "label": 1
+  },
+  {
+    "text": "The package arrived quickly and safely",
+    "label": 1
+  },
+  {
+    "text": "Fantastic customer care and support",
+    "label": 1
+  },
+  {
+    "text": "I enjoyed using this software",
+    "label": 1
+  },
+  {
+    "text": "The product is beautiful and durable",
+    "label": 1
+  },
+  {
+    "text": "Very effective and simple to operate",
+    "label": 1
+  },
+  {
+    "text": "The service was prompt and professional",
+    "label": 1
+  },
+  {
+    "text": "Good experience and excellent value",
+    "label": 1
+  },
+  {
+    "text": "I would buy this again",
+    "label": 1
+  },
+  {
+    "text": "Terrible product and awful support",
+    "label": 0
+  },
+  {
+    "text": "I hated the service and rude staff",
+    "label": 0
+  },
+  {
+    "text": "Poor quality and slow delivery",
+    "label": 0
+  },
+  {
+    "text": "Horrible experience and confusing setup",
+    "label": 0
+  },
+  {
+    "text": "Waste of money and unreliable performance",
+    "label": 0
+  },
+  {
+    "text": "Very disappointed with my purchase",
+    "label": 0
+  },
+  {
+    "text": "The app is buggy and useless",
+    "label": 0
+  },
+  {
+    "text": "Bad design and missing features",
+    "label": 0
+  },
+  {
+    "text": "Never works and wastes time",
+    "label": 0
+  },
+  {
+    "text": "Do not recommend this broken item",
+    "label": 0
+  },
+  {
+    "text": "Slow response and dreadful service",
+    "label": 0
+  },
+  {
+    "text": "Disappointing results and messy interface",
+    "label": 0
+  },
+  {
+    "text": "The quality was below expectations",
+    "label": 0
+  },
+  {
+    "text": "Unpleasant experience with this company",
+    "label": 0
+  },
+  {
+    "text": "This is an expensive and poor solution",
+    "label": 0
+  },
+  {
+    "text": "Customer service was terrible",
+    "label": 0
+  },
+  {
+    "text": "A frustrating and inconvenient tool",
+    "label": 0
+  },
+  {
+    "text": "I am unhappy with the results",
+    "label": 0
+  },
+  {
+    "text": "Unreliable product and unhelpful team",
+    "label": 0
+  },
+  {
+    "text": "Difficult to use and fails often",
+    "label": 0
+  },
+  {
+    "text": "A very negative experience overall",
+    "label": 0
+  },
+  {
+    "text": "Awful features and careless design",
+    "label": 0
+  },
+  {
+    "text": "The package arrived late and damaged",
+    "label": 0
+  },
+  {
+    "text": "Horrible customer care and support",
+    "label": 0
+  },
+  {
+    "text": "I regret using this software",
+    "label": 0
+  },
+  {
+    "text": "The product is ugly and fragile",
+    "label": 0
+  },
+  {
+    "text": "Very ineffective and hard to operate",
+    "label": 0
+  },
+  {
+    "text": "The service was delayed and unprofessional",
+    "label": 0
+  },
+  {
+    "text": "Bad experience and poor value",
+    "label": 0
+  },
+  {
+    "text": "I would never buy this again",
+    "label": 0
+  }
+]
