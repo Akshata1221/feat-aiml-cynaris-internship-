@@ -1,0 +1,26 @@
+The dataset contains 100 student records with demographic information,
+study habits, attendance, subject scores, and an overall performance
+category. The numerical variables include study hours, attendance
+percentage, and Mathematics, Science, and English scores. Initial
+inspection using describe(), info(), and isnull().sum() provides a
+clear overview of the data types, distributions, and missing values.
+
+A small number of missing values were identified in numeric columns.
+These values were handled using median imputation to preserve the
+records without introducing extreme values. Duplicate records were
+also checked and removed where necessary.
+
+The distribution plots help identify the typical range of study hours,
+attendance, and academic scores. The correlation heatmap is useful
+for examining relationships among these variables. In particular,
+higher study time and attendance appear to be associated with better
+academic performance, although correlation does not prove causation.
+
+The categorical analysis shows the distribution of students across
+cities and helps identify the most represented locations. Suspicious
+areas to investigate further include missing observations and any
+unusually low attendance or subject scores. Before building a machine
+learning model, additional validation of outliers, duplicate records,
+and category consistency would be useful. Overall, the dataset is
+structured and suitable for basic exploratory analysis and provides
+useful insights into factors associated with student performance.
