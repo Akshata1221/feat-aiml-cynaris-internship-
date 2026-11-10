@@ -1,0 +1,23 @@
+{
+  "best_run": "rf_baseline",
+  "selection_metric": "roc_auc",
+  "random_state": 42,
+  "test_size": 0.2,
+  "target": "default_flag",
+  "excluded_columns": [
+    "application_id"
+  ],
+  "feature_columns": [
+    "age",
+    "income_annual_inr",
+    "employment_type",
+    "employment_years",
+    "existing_loans",
+    "existing_emi_inr",
+    "credit_score",
+    "loan_amount_inr",
+    "loan_purpose",
+    "ltv_ratio",
+    "dti_ratio"
+  ]
+}

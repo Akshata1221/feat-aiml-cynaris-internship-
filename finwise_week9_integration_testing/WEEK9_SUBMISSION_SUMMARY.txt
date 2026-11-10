@@ -1,0 +1,21 @@
+Week 9 – Integration + Testing
+
+Integrated the trained FinWise Random Forest model into a FastAPI REST API.
+Implemented GET /health and POST /predict endpoints with input validation.
+
+Four integration tests cover API health, valid predictions, invalid credit
+score validation, and rejection of unknown fields. The recorded test run
+passed all four tests.
+
+Load testing used 50 concurrent workers and 500 total requests:
+- Successful requests: 500
+- Failed requests: 0
+- Throughput: 32.54 requests/second
+- Mean latency: 1503.21 ms
+- P50 latency: 1516.23 ms
+- P95 latency: 1776.60 ms
+- P99 latency: 2137.35 ms
+- Maximum latency: 2380.63 ms
+
+A Dockerfile and repeatable load-test script are included. Performance may
+vary by hardware and deployment environment.
