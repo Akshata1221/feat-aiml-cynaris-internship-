@@ -1,0 +1,4 @@
+mlflow>=2.14.0
+pydantic>=2.7.0
+duckduckgo-search>=6.2.0
+python-dotenv>=1.0.1
