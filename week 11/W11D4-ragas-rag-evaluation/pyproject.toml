@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "W11D4_ragas_rag_evaluation"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+rag = ["langchain>=0.2", "langchain-community>=0.2", "langchain-text-splitters>=0.2", "langchain-ollama>=0.1", "chromadb>=0.5"]
+evaluation = ["ragas>=0.2"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
