@@ -1,0 +1,38 @@
+FinWise Credit Risk – Five-Minute Live Demo Script
+
+0:00–0:40 | Introduction
+Introduce FinWise Credit Risk and explain that the project estimates loan
+default probability from application features. State that this is an
+educational prototype, not an automated lending decision system.
+
+0:40–1:20 | Model and data
+Explain the binary target (default_flag), the Random Forest model, and the
+Week 6 held-out evaluation metrics. Mention that data provenance and
+independent validation must be confirmed.
+
+1:20–2:30 | Live API prediction
+Start the service:
+  uvicorn app.main:app --host 127.0.0.1 --port 8000
+Open http://127.0.0.1:8000/docs, call GET /health, then POST /predict
+using the sample request in README or project documentation. Explain the
+returned prediction, default probability, and risk band.
+
+2:30–3:20 | Integration tests
+Run:
+  pytest -q
+Show the test output and explain the health, valid prediction, invalid
+credit score, and unknown-field cases.
+
+3:20–4:20 | Load testing
+With the API still running, execute:
+  python scripts/load_test.py --requests 500 --concurrency 50
+Show the generated JSON results. Explain throughput and p50/p95/p99 latency.
+
+4:20–5:00 | Model card and deployment
+Open MODEL_CARD.md and summarize intended use, metrics, limitations,
+fairness audit caveats, and deployment instructions. Briefly show the
+Dockerfile and GitHub Actions workflow.
+
+Recording reminder:
+This is a script/plan, not a recorded demo. Record your actual screen and
+narration, and verify GitHub Actions passes on the published repository.

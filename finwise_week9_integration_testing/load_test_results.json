@@ -1,0 +1,16 @@
+{
+  "url": "http://127.0.0.1:8000/predict",
+  "requests": 500,
+  "concurrency": 50,
+  "successful_requests": 500,
+  "failed_requests": 0,
+  "wall_time_seconds": 15.3678,
+  "throughput_requests_per_second": 32.536,
+  "latency_ms": {
+    "mean": 1503.212,
+    "p50": 1516.229,
+    "p95": 1776.602,
+    "p99": 2137.35,
+    "max": 2380.632
+  }
+}
